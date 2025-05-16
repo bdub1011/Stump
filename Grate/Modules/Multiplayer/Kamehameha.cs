@@ -283,7 +283,7 @@ namespace Grate.Modules.Multiplayer
             leftHand = networkedPlayer.rig.leftHandTransform,
             rightHand = networkedPlayer.rig.rightHandTransform;
             float diameter = 0;
-            float scale = (float)Math.Sqrt(networkedPlayer.owner.GetProperty<float>(Potions.playerSizeKey));
+            float scale = networkedPlayer.owner.GetProperty<float>(Potions.playerSizeKey)/2;
             diameter = Vector3.Distance(leftHand.position, rightHand.position);
             diameter = Mathf.Clamp(diameter, 0, Kamehameha.maxOrbSize * scale * 2);
             bananaLine.startWidth = diameter * scale;

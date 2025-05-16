@@ -136,14 +136,12 @@ namespace Grate.Modules.Misc
 
             void OnDisable()
             {
-                hammer.Obliterate();
                 networkedPlayer.OnGripPressed -= OnGripPressed;
                 networkedPlayer.OnGripReleased -= OnGripReleased;
             }
 
             void OnDestroy()
             {
-                hammer.Obliterate();
                 networkedPlayer.OnGripPressed -= OnGripPressed;
                 networkedPlayer.OnGripReleased -= OnGripReleased;
             }
