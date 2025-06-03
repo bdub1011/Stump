@@ -1,17 +1,17 @@
-<h1 align="center">Grate</h1>
+<h1 align="center">Stump</h1>
 
 <p align="center">
-<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/The-Graze/Grate/Grate.dll">
+<img alt="GitHub Downloads (specific asset, all releases)" src="https://img.shields.io/github/downloads/The-Graze/Stump/Stump.dll">
 </p>
 
 <h3 align="center">Fork for a reason, show love to Kyle the OG creator</h2>
 
-<h3 align="center">Grate is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.</h1>
+<h3 align="center">Stump is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.</h1>
 
 <p align="center">
-    <a href="https://youtu.be/ZAYFbcq63nc"><img width="auto" height="auto" src="https://raw.githubusercontent.com/RylanFoxins/Grate/refs/heads/master/Art/NewGrateArt.png?raw=true"
+    <a href="https://youtu.be/ZAYFbcq63nc"><img width="auto" height="auto" src="https://raw.githubusercontent.com/RylanFoxins/Stump/refs/heads/master/Art/NewStumpArt.png?raw=true"
 </p>
-<h4 align="center">(Watch this video by Rylan showing off Grate!)</h1>
+<h4 align="center">(Watch this video by Rylan showing off Stump!)</h1>
 
 
 ## Links
@@ -23,7 +23,7 @@
 * OG YouTube: https://www.youtube.com/@kylethescientist
 
 ## Features
-*Grate* has various modules that can be toggled on and off, including:
+*Stump* has various modules that can be toggled on and off, including:
 
 ### Movement
 * `Airplane` - This allows the player to fly around. **Spread your arms out like an airplane** to activate and use your wrists to steer!
@@ -58,7 +58,7 @@
   pick you up and throw you from afar.
 * `ESP` - Similar to Fireflies, allowing you to see players through walls.
 ### Miscellaneous
-* `Settings` - At the top of the *Grate* menu on any page, allows you to change settings for most modules.
+* `Settings` - At the top of the *Stump* menu on any page, allows you to change settings for most modules.
 * `Kamehameha` - Face your palms together with a small gap to charge, wait a few seconds and then push your hands out to execute it.
 
 These modules can be useful for exploring the game world, experimenting with gameplay mechanics, or just having fun with friends. They are **not** meant to be used to harass others, which can result in a ban from the game.
@@ -66,29 +66,28 @@ These modules can be useful for exploring the game world, experimenting with gam
 ## Usage
 When you join a modded lobby, simply beat on your chest like a gorilla in an alternating fashion with both hands 4 times (LRLR or RLRL). This will summon the interface in front of you. To hide the interface, simply grab it and throw it away.
 
-This can even be changed in the settings of *Grate*.
+This can even be changed in the settings of *Stump*.
 
 ## Installation
-To install *Grate*, simply download the "Grate.dll" from releases and put it in your Gorilla Tag plugins folder. Additionally, you can use The-Graze's fork of [Monke Mod Manager](https://github.com/The-Graze/MonkeModManager) to install *Grate*.
+To install *Stump*, simply download the "Stump.dll" from releases and put it in your Gorilla Tag plugins folder. Additionally, you can use The-Graze's fork of [Monke Mod Manager](https://github.com/The-Graze/MonkeModManager) to install *Stump*.
 
 ## Important notes
 
-While *Grate* is designed to be safe to use in modded lobbies, it is important to note that using mods in any form in public lobbies or non-modded privates can result in a ban from the game. Use *Grate* at your own risk and only in modded lobbies.
+While *Stump* is designed to be safe to use in modded lobbies, it is important to note that using mods in any form in public lobbies or non-modded privates can result in a ban from the game. Use *Stump* at your own risk and only in modded lobbies.
 
 ## Bugs and issues
-If you encounter any bugs or issues while using *Grate*, please report them on the mod's GitHub page or my Discord server linked above. I will do my best to address them as soon as possible. 
+If you encounter any bugs or issues while using *Stump*, please report them on the mod's GitHub page or my Discord server linked above. I will do my best to address them as soon as possible. 
 
 ## Contributing
-If you would like to contribute to *Grate*, feel free to submit a pull request on the mod's GitHub page. I welcome any and all contributions that can help make the mod better for everyone.
+If you would like to contribute to *Stump*, feel free to submit a pull request on the mod's GitHub page. I welcome any and all contributions that can help make the mod better for everyone.
 
 Or, you can send a message in my Discord server and I may add it.
 
 ## Credits
-*Grate* was created by Graze. 
+*Stump* was created by Bdub. 
 *Bark* was created by KyleTheScientist. 
 Thanks to the Gorilla Tag modding community for their support.
 
-Special thanks to Kyle's little brother Asher for helping him test the OG :)
 
 * [Boxing Gloves model](https://skfb.ly/6XOUS) by Gohar.Munir is licensed under [Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
