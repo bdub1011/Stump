@@ -8,20 +8,6 @@
 
 <h3 align="center">Stump is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off. Because it is only enabled in modded lobbies, this mod is safe to use online.</h1>
 
-<p align="center">
-    <a href="https://youtu.be/ZAYFbcq63nc"><img width="auto" height="auto" src="https://raw.githubusercontent.com/RylanFoxins/Stump/refs/heads/master/Art/NewStumpArt.png?raw=true"
-</p>
-<h4 align="center">(Watch this video by Rylan showing off Stump!)</h1>
-
-
-## Links
-
-* Discord: https://discord.gg/B2MErU9KCp
-* YouTube: https://youtube.com/@graze_?si=a4UvBEjjFuefMG-w
-
-* OG Discord: https://discord.gg/xwY8VdxntN (Read-Only)
-* OG YouTube: https://www.youtube.com/@kylethescientist
-
 ## Features
 *Stump* has various modules that can be toggled on and off, including:
 
