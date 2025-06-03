@@ -24,7 +24,7 @@ using UnityEngine.Networking;
 using PlayFab.ClientModels;
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace Grate.GUI
+namespace Stump.GUI
 {
     public class MenuController : GrateGrabbable
     {
@@ -45,7 +45,7 @@ namespace Grate.GUI
         public static ConfigEntry<string> Theme;
         public static ConfigEntry<bool> Festive;
 
-        public Material[] grate, bark, HolloPurp, Monke, old;
+        public Material[] stump, bark, HolloPurp, Monke, old;
         public static Material[] ShinyRocks;
 
         bool docked;
@@ -199,9 +199,9 @@ namespace Grate.GUI
                 old[1].color = new Color(0.2f, 0.2f, 0.2f);
             }
             string ThemeName = Theme.Value.ToLower();
-            if (ThemeName == "grate")
+            if (ThemeName == "stump")
             {
-                gameObject.GetComponent<MeshRenderer>().materials = grate;
+                gameObject.GetComponent<MeshRenderer>().materials = stump;
             }
             if (ThemeName == "bark")
             {
@@ -212,9 +212,9 @@ namespace Grate.GUI
                 gameObject.GetComponent<MeshRenderer>().materials = HolloPurp;
             }
 
-            if (ThemeName == "oldgrate")
+            if (ThemeName == "grate")
             {
-                gameObject.GetComponent<MeshRenderer>().materials = old;
+                gameObject.GetComponent<MeshRenderer>().materials = grate;
             }
 
             if (ThemeName == "shinyrocks")
